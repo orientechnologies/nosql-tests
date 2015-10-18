@@ -12,7 +12,7 @@ function orientName(name) {
 
   if (name === 'Profiles') name = 'Profile';
   if (name === 'Profiles_Temp') name = 'Profile_Temp';
-  if (name === 'Relations') name = 'Relation';
+  if (name === 'Relations') name = 'Relationship';
 
   return name;
 }
